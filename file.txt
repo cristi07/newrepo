@@ -1,6 +1,3 @@
 hi
 hello.
-good one
-
-
-for stash2
+goodone.
